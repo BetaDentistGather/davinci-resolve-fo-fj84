@@ -1,4 +1,4 @@
-# 
+# Enhance DaVinci Resolve for PC | DaVinci Resolve for Windows with updated DaVinci Resolve for PC | DaVinci Resolve for Windows Panel | export-presets + color-grading, the #1
 
 
 
